@@ -19,9 +19,10 @@ This project analyzes Blinkit's sales and nutritional data using *Excel*. It ext
 
 ## 📁 Project Structure
 
-- [dashboard/blinkit_sales_excel_dashboard.xlsx](dashboard/blinkit_sales_excel_dashboard.xlsx) – Excel dashboard report
-- [screenshots/blinkit_excel_dashboard.png](screenshots/blinkit_excel_dashboard.png) – Snapshot of Excel dashboard
-- [data/blinkit_data.csv](data/blinkit_data.csv) – Dataset used 
+- [dashboard/blinkit_sales_dashboard.xlsx](dashboard/blinkit_dashboard.xlsx) – Excel dashboard report
+- [screenshots/blinkit_KPI's.png](screenshots/blinkit_KPI's.png) – Snapshot of KPI's
+- [screenshots/blinkit_dashboard_snapshot.png](screenshots/blinkit_dashboard_snapshot.png) – Snapshot of Excel dashboard
+- [data/blinkit_dataset.csv](data/blinkit_dataset.csv) – Dataset used 
 
 ---
 
